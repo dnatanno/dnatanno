@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dnatanno/dnatanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Diego and I am currently in my 3rd year of Systems Development.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
+
+## Contact
+
+Contact me on Discord, my user: dnatan
